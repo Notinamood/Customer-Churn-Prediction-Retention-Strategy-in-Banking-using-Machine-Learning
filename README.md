@@ -91,8 +91,6 @@ The classification threshold was adjusted from 0.5 to 0.45 to improve recall whi
 The Random Forest model provided a more balanced and realistic performance.
 
 ---
-## Dasboard
-![Dashboard](Customer Churn Prediction & Retention Strategy in Banking using Machine Learning/Visuals/Final20%_20%Visual20%.png)
 
 ## Key Insights
 
