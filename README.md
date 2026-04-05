@@ -92,7 +92,8 @@ The Random Forest model provided a more balanced and realistic performance.
 
 ---
 ## Dasboard
-![Dashboard](Customer Churn Prediction & Retention Strategy in Banking using Machine Learning/Visuals/Final20%_20%Visual20%.jpg)
+![Dashboard](Customer Churn Prediction & Retention Strategy in Banking using Machine Learning/Visuals/Final20%_20%Visual20%.png)
+
 ## Key Insights
 
 * Age is the most influential factor in predicting churn
